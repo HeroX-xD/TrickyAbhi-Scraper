@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+keyboard
+requests
+getmac
+licensing
