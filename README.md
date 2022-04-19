@@ -1,1 +1,1 @@
-# TrickyAbhi-Scraper-
+ok just open termux 
